@@ -21,7 +21,7 @@ Este repositorio contiene la implementación de un sistema de gestión para una 
 
 ## Requisitos
 
-- **.NET SDK**: Versión 8.0 o superior.
+- **.NET**: Versión 8.0 o superior.
 - **PostgreSQL**: Versión 15 o superior.
 - **Entity Framework Core CLI**: Instalar con `dotnet tool install --global dotnet-ef`.
 
